@@ -7,8 +7,8 @@ h1{
     text-shadow: 2px 2px 8px;
     background-color: rgb(233, 202, 165);
     margin-top: 3%;
-    margin-left: 30%;
-    margin-right: 30%;
+    margin-left: 1%;
+    margin-right: 1%;
     border-radius: 10px;
     padding-bottom: 1%;
     padding-top: 1%;
@@ -17,12 +17,12 @@ h1{
     font-size: 250%;
 }
 .egész{
-    margin-left: 30%;
     padding-left: 1%;
     padding-bottom: 1%;
     padding-top: 1%;
     background-color: rgb(233, 202, 165);
     border-radius: 10px;
-    margin-right: 30%;
+    margin-left: 1%;
+    margin-right: 1%;
 }
 
